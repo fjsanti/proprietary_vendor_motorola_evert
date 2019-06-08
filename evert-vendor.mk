@@ -43,16 +43,8 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/evert/proprietary/vendor/lib64/soundfx/libvisualizer.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libvisualizer.so \
     vendor/motorola/evert/proprietary/vendor/bin/hw/com.motorola.hardware.display.panel@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/com.motorola.hardware.display.panel@1.0-service \
     vendor/motorola/evert/proprietary/vendor/etc/init/com.motorola.hardware.display.panel@1.0-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/com.motorola.hardware.display.panel@1.0-service.rc \
-    vendor/motorola/evert/proprietary/vendor/lib/vendor.display.config@1.3.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.display.config@1.3.so \
-    vendor/motorola/evert/proprietary/vendor/lib/vendor.display.color@1.2.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.display.color@1.2.so \
-    vendor/motorola/evert/proprietary/vendor/lib/vendor.display.config@1.4.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.display.config@1.4.so \
-    vendor/motorola/evert/proprietary/vendor/lib64/vendor.display.config@1.2.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.display.config@1.2.so \
-    vendor/motorola/evert/proprietary/vendor/lib/vendor.display.config@1.2.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.display.config@1.2.so \
     vendor/motorola/evert/proprietary/vendor/lib/hw/displaypanel.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/displaypanel.default.so \
     vendor/motorola/evert/proprietary/vendor/lib64/hw/displaypanel.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/displaypanel.default.so \
-    vendor/motorola/evert/proprietary/vendor/lib64/vendor.display.config@1.3.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.display.config@1.3.so \
-    vendor/motorola/evert/proprietary/vendor/lib64/vendor.display.color@1.2.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.display.color@1.2.so \
-    vendor/motorola/evert/proprietary/vendor/lib64/vendor.display.config@1.4.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.display.config@1.4.so \
     vendor/motorola/evert/proprietary/vendor/etc/init/com.motorola.hardware.display.panel@1.0-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/com.motorola.hardware.display.panel@1.0-service.rc \
     vendor/motorola/evert/proprietary/vendor/bin/hw/com.motorola.hardware.display.panel@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/com.motorola.hardware.display.panel@1.0-service \
     vendor/motorola/evert/proprietary/vendor/lib/libvideoutils.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvideoutils.so \
